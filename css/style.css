@@ -1,0 +1,49 @@
+.card {
+	border: 3px solid #575b59; 
+	margin-top: 5px;
+	margin-bottom: 10px;
+	border-radius: 15px;
+	padding: 6px;
+    box-shadow: 10px 10px 10px #888888;
+}
+
+.profile-pic {
+	max-width: 100%;
+}
+
+.card-title {
+  color: #102d59;
+  font-weight: 500;
+}
+
+.card-title1 {
+  color: #102d59;
+  font-weight: 500;
+}
+
+
+.navbar {
+  background: #102d59;
+   position: relative;
+  padding: .5rem 1rem;
+}
+
+.navbar-brand {
+	color : white;
+}
+
+.nav-link {
+  display: inline-block;
+  color: white;
+}
+
+.description {
+  background-image: url(../img/aston.jpg);
+  background-repeat: repeat-x;
+  border-image-width: 20px;
+  
+}
+
+
+
+
